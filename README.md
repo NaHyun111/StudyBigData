@@ -19,7 +19,6 @@
   - Beautifulsoup
   - Selenium
 
-
 ## Day 4
 - 빅데이터 분석
   - 통계분석
@@ -39,3 +38,8 @@
 - PyQt5 학습
   - PyQt5, Designer 설치
   - PyQt5 기본폼 만들기
+  
+ ## pyqt02
+ - PyQt5 학습
+  - QtDesigner로 UI생성
+  - 네이버 API로 네이버뉴스, 영화 검색탭 만들기 

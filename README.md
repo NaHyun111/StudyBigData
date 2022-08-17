@@ -41,5 +41,5 @@
   
  ## pyqt02
  - PyQt5 학습
-  - QtDesigner로 UI생성
-  - 네이버 API로 네이버뉴스, 영화 검색탭 만들기 
+   - QtDesigner로 UI생성
+   - 네이버 API로 네이버뉴스, 영화 검색탭 만들기 
